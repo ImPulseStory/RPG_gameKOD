@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPG_gameKOD", "RPG_gameKOD\RPG_gameKOD.csproj", "{DC06F4B7-7C85-4B99-95BD-B7F773F40C6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC06F4B7-7C85-4B99-95BD-B7F773F40C6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC06F4B7-7C85-4B99-95BD-B7F773F40C6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC06F4B7-7C85-4B99-95BD-B7F773F40C6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC06F4B7-7C85-4B99-95BD-B7F773F40C6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
